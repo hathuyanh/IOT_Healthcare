@@ -1,0 +1,199 @@
+(footprint "NEO_6M"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "GPS_NEO StepUp generated footprint")
+	(property "Reference" "REF**"
+		(at 0 20 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1ca8b42e-f6b8-4c40-b222-c19379486eac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at -1 23 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4ffa841a-9306-4329-b354-fe4c58884177")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Footprint" "NEO-6M-GPS:NEO_6M"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9395b6a0-e352-429e-bae1-e5c497bcc00c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e0d321a-909e-4129-a99d-254815f07a70")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52466a3b-27d1-442c-b64a-1868d7710125")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -19.180015 -35.6)
+		(end -19.180015 -9.52)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24c477c0-ecde-4c33-97f0-52c4a432320b")
+	)
+	(fp_line
+		(start -19.180015 -9.52)
+		(end 16.169955 -9.52)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "662d1090-b9ff-4388-86d6-173a0b1c6c9d")
+	)
+	(fp_line
+		(start 16.169955 -35.6)
+		(end -19.180015 -35.6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23ab767b-4878-404a-86c8-25fca56196ed")
+	)
+	(fp_line
+		(start 16.169955 -35.6)
+		(end 16.311927 -35.6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f0b2965-bebd-4d5b-af35-289731261c18")
+	)
+	(fp_line
+		(start 16.169955 -9.52)
+		(end 16.311927 -9.52)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a6b3236-b531-435e-9177-4f0be698e5ae")
+	)
+	(fp_line
+		(start 16.311927 -9.52)
+		(end 16.311927 -35.6)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "324c3f12-d4b7-42e9-a980-dbfca95aed9b")
+	)
+	(pad "" thru_hole circle
+		(at -17.532 -23.566)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "404569a6-88fd-4c3b-a661-e05beb5c1913")
+	)
+	(pad "" thru_hole circle
+		(at -17.532 -21.026)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b2acc70d-d181-440e-b55a-3aa8ad559253")
+	)
+	(pad "" thru_hole circle
+		(at -17.532 -18.486)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4bee3a3c-c8ac-4cb0-8425-05d21dc214ef")
+	)
+	(pad "" thru_hole circle
+		(at -17.53 -26.106)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "dcf5bf9f-7f3e-4e2d-865e-ff47b1003444")
+	)
+	(pad "" np_thru_hole circle
+		(at -16.698 -32.421)
+		(size 3 3)
+		(drill 2.5)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "4162a9a9-e94e-4b48-8cae-b788693bd0c3")
+	)
+	(pad "" np_thru_hole circle
+		(at -16.698 -12.081)
+		(size 3 3)
+		(drill 2.5)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "ee0ef596-5837-4470-93cc-ab9b643735e0")
+	)
+	(pad "" np_thru_hole circle
+		(at 13.588 -32.46)
+		(size 3 3)
+		(drill 2.5)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "74efc4eb-995e-49d5-835e-75a13f8210ec")
+	)
+	(pad "" np_thru_hole circle
+		(at 13.588 -12.12)
+		(size 3 3)
+		(drill 2.5)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "d21377f8-885e-496e-bd13-c25eec13bbf1")
+	)
+	(model "/home/nuke/Documents/esp_watch/NEO-6M-GPS/GPS_NEO.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

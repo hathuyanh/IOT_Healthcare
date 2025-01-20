@@ -1,0 +1,485 @@
+(footprint "MODULE_SEN-12650"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.175 -29.21 180)
+		(layer "F.SilkS")
+		(uuid "e97ebe85-a3f5-40c0-957d-c1467962b4fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SEN-12650"
+		(at 10.16 1.27 180)
+		(layer "F.Fab")
+		(uuid "6a221e5a-a3a8-4a4b-8349-40b6ecb238fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "SEN-12650:MODULE_SEN-12650"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80d262f7-f66c-451e-a4af-e48fb130fcc6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3ab1c7d-f30d-451e-b5d5-e4644859c828")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1740e0c-05d2-4638-8daf-878a76cca16e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "SparkFun Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc028810-12f5-4255-a3a5-9eea4d6bb4ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "348b8604-af6b-41d7-a110-2f0d35dc11c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b085794-24db-4aec-bcae-b1c0e4c90d94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8028e6e0-f309-4bb6-bccd-bebb8e61b6d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SEN-12650/SparkFun+Electronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83e5f34d-3b50-40fb-a9e4-24f49698b832")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f663c3d-aefd-4d8e-8896-8c5f4a7570d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "V10"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1336de33-b3cf-4934-9c7e-63f2494db013")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SEN-12650/SparkFun+Electronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7b02a12-c74b-4ebb-a342-d89264b1b2bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SEN-12650"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3ec3f0a-7997-4c6e-aa61-7c034c7e6723")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            AD8232 - Analog Front End (AFE) for ECG, EKG Interface Evaluation Board\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c17d798-8473-4335-b3b1-2431d8921616")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "SEN-12650"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a6302a4-b5e6-44cf-87d5-b0f81c84f321")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "886b1a8a-1e6e-4445-b2f5-4c4fbbf45e40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Sparkfun Electornics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7bd0ab6-1152-4960-a4c3-3d03bbd681ba")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -27.94)
+		(end 35.56 -27.94)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c84a8877-bdcd-426e-a89f-bd5257827db8")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -27.94)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eead6d36-b30d-4545-82e3-0aaf014a2e77")
+	)
+	(fp_line
+		(start 35.56 -27.94)
+		(end 35.56 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4bf33631-33af-4e40-ad88-7331f4e2a029")
+	)
+	(fp_line
+		(start 35.56 0)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3eee8a07-73bf-4f85-a955-bc9f0fe168c3")
+	)
+	(fp_circle
+		(center 11.43 0.75)
+		(end 11.53 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e4ae7ade-00f0-4e9d-a0a0-b600bda71ea2")
+	)
+	(fp_line
+		(start -0.25 -28.19)
+		(end 35.81 -28.19)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9dc89171-10c1-4b4f-a0b3-62b2fe1d7f75")
+	)
+	(fp_line
+		(start -0.25 0.25)
+		(end -0.25 -28.19)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e225baf-af66-483e-9ed9-ffc006c3bd28")
+	)
+	(fp_line
+		(start 35.81 -28.19)
+		(end 35.81 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "41cc3deb-2a80-4dd3-98c0-626c8e581ca1")
+	)
+	(fp_line
+		(start 35.81 0.25)
+		(end -0.25 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3b5fd133-4f62-4518-a30d-b471e68eb95b")
+	)
+	(fp_line
+		(start 0 -27.94)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c9aca2a-5b69-4967-a256-99b0312b8bd7")
+	)
+	(fp_line
+		(start 0 0)
+		(end 35.56 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8a3ba46b-89e8-4677-a4c9-95654bf4ab0c")
+	)
+	(fp_line
+		(start 35.56 -27.94)
+		(end 0 -27.94)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ae811291-1462-4958-9da6-07c0092fa964")
+	)
+	(fp_line
+		(start 35.56 0)
+		(end 35.56 -27.94)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e1dc7ef-c251-4d2b-ab98-83990e834f4d")
+	)
+	(fp_circle
+		(center 11.43 0.75)
+		(end 11.53 0.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "4bab6c28-06bf-4e69-876c-056bd0d5038d")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.54 -25.4)
+		(size 3.302 3.302)
+		(drill 3.302)
+		(layers "*.Cu" "*.Mask")
+		(uuid "9c57f9c3-a13c-466c-a62d-4fffba094765")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.54 -2.54)
+		(size 3.302 3.302)
+		(drill 3.302)
+		(layers "*.Cu" "*.Mask")
+		(uuid "de3f519c-b61e-44b1-b5c9-df5add621261")
+	)
+	(pad "" np_thru_hole circle
+		(at 33.02 -25.4)
+		(size 3.302 3.302)
+		(drill 3.302)
+		(layers "*.Cu" "*.Mask")
+		(uuid "673cdd19-3d97-43fd-a6e1-5dcc28eec39c")
+	)
+	(pad "" np_thru_hole circle
+		(at 33.02 -2.54)
+		(size 3.302 3.302)
+		(drill 3.302)
+		(layers "*.Cu" "*.Mask")
+		(uuid "622b2d64-4da1-419a-8812-07b92cc0d7a5")
+	)
+	(pad "JP1_1" thru_hole circle
+		(at 1.27 -15.24)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a1c82409-7d13-47c5-8674-1619543f2d44")
+	)
+	(pad "JP1_2" thru_hole circle
+		(at 1.27 -17.78)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "26371b2d-b3ef-4d4d-822e-d8ca8fa657f0")
+	)
+	(pad "JP1_3" thru_hole circle
+		(at 1.27 -20.32)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5928dd69-fed0-4cb4-968d-3cef0cfa6ee7")
+	)
+	(pad "JP3_1" thru_hole rect
+		(at 11.43 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "1cd91650-99a7-42ed-8153-06ba40de34ea")
+	)
+	(pad "JP3_2" thru_hole circle
+		(at 13.97 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cd48b7d0-281d-4252-be88-5dc77efccd20")
+	)
+	(pad "JP3_3" thru_hole circle
+		(at 16.51 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "51bf30f5-652a-47b4-8d88-178862b6a42e")
+	)
+	(pad "JP3_4" thru_hole circle
+		(at 19.05 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "9d3a06ad-2069-4c7a-a377-93d1d20d3b89")
+	)
+	(pad "JP3_5" thru_hole circle
+		(at 21.59 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "402b0e0c-212a-4303-a4ce-03e9ade96a2f")
+	)
+	(pad "JP3_6" thru_hole circle
+		(at 24.13 -1.27)
+		(size 1.524 1.524)
+		(drill 1.016)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cbf9b63c-5cb7-49b2-b65e-6041e5f26d69")
+	)
+)

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "Library1")(type "KiCad")(uri "${KIPRJMOD}/Library1.pretty")(options "")(descr ""))
+  (lib (name "Sensor_Temperature_MAX30205")(type "KiCad")(uri "${KIPRJMOD}/Sensor_Temperature_MAX30205.pretty")(options "")(descr ""))
+  (lib (name "Sensor_Temperature_MAX30205.kicad_sym")(type "KiCad")(uri "${KIPRJMOD}/Sensor_Temperature_MAX30205.kicad_sym.pretty")(options "")(descr ""))
+)
